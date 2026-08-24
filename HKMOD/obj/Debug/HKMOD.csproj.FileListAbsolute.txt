@@ -1,0 +1,6 @@
+D:\Users\gabgi\source\repos\HKMOD\HKMOD\bin\Debug\HKMOD.dll
+D:\Users\gabgi\source\repos\HKMOD\HKMOD\bin\Debug\HKMOD.pdb
+D:\Users\gabgi\source\repos\HKMOD\HKMOD\obj\Debug\HKMOD.csproj.AssemblyReference.cache
+D:\Users\gabgi\source\repos\HKMOD\HKMOD\obj\Debug\HKMOD.csproj.CoreCompileInputs.cache
+D:\Users\gabgi\source\repos\HKMOD\HKMOD\obj\Debug\HKMOD.dll
+D:\Users\gabgi\source\repos\HKMOD\HKMOD\obj\Debug\HKMOD.pdb

@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using IL.InControl.UnityDeviceProfiles;
+using Modding;
+using UnityEngine;
+
+namespace HKMOD
+{
+    public class Class1
+    {
+        /*if(Player gets the abyssal charm)
+            {
+            invocar sombras do abismo plelo mapa
+            }*/
+    }
+}
